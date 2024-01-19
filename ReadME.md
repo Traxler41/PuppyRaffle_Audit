@@ -12,7 +12,7 @@ PuppyRaffle.sol in src directory.
 
 The Audit Reports of the findings are below:- 
 
-Vulnerability 1:- https://github.com/Traxler41/PasswordStore_Audit/blob/main/Finding_1.md
+Vulnerability 1:- https://github.com/Traxler41/PuppyRaffle_Audit/blob/main/Findings_1.md
 
 Vulnerability 2:- https://github.com/Traxler41/PasswordStore_Audit/blob/main/Finding2.md
 
