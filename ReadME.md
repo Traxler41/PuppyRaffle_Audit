@@ -16,7 +16,7 @@ Vulnerability 1:- https://github.com/Traxler41/PuppyRaffle_Audit/blob/main/Findi
 
 Vulnerability 2:- https://github.com/Traxler41/PuppyRaffle_Audit/blob/main/Finding_2.md
 
-Vulnerability 3:- https://github.com/Traxler41/PasswordStore_Audit/blob/main/Finding_3.md
+Vulnerability 3:- https://github.com/Traxler41/PuppyRaffle_Audit/blob/main/Finding_3.md
 
 Final Audit Report of PasswordStore Protocol:- https://github.com/Traxler41/PasswordStore_Audit/blob/main/2023-12-26-PasswordStore_Audit.pdf
 
